@@ -2,6 +2,8 @@
 
 ![KeepDroid logo](docs/keepdroid-logo.png)
 
+I signed the petition.
+- https://c.org/msWBf6kfsy
 KeepDroid is an Android 9+ Material 3 application that keeps device-management status visible and user-controlled. Its package name is `com.google.android.verifier`.
 This blocks the installation of components related to APK developer signature verification. Having administrator privileges makes it impossible to overwrite. On devices running Android 16, Developer Verifier is not a system app. While the possibility is unclear, this can prevent auto-installation.
 ## Features
