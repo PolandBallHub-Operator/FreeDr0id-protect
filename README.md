@@ -34,7 +34,8 @@ The debug APK is generated at `app/build/outputs/apk/debug/app-debug.apk`.
 
 Current application metadata:
 
-- Application ID: `com.google.android.verifier`
+- Application ID: `com.g00gle.andr0id.verifier`
+- 0=o
 - Version code: `2`
 - Version name: `September302026notcoming`
 - Minimum SDK: `28`
