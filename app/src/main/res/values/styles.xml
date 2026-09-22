@@ -1,0 +1,5 @@
+<resources>
+    <style name="TextAppearance.KeepDroid.ToolbarTitle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
