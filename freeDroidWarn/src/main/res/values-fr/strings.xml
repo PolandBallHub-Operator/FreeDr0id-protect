@@ -1,5 +1,0 @@
-<resources>
-    <string name="dialog_Warning">Google a annonce que, a partir de 2026/2027, toutes les applications sur les appareils Android certifies exigeront que les developpeurs transmettent leurs informations didentite personnelles directement a Google. Comme les developpeurs de cette application nacceptent pas cette exigence, lapplication cessera de fonctionner sur les appareils Android certifies apres cette date.</string>
-    <string name="dialog_more_info">Details</string>
-    <string name="solution">Solution</string>
-</resources>
