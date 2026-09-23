@@ -1,5 +1,5 @@
 # last desperate attempt
-# KeepDr0id(FreeDr0idv2）
+# KeepDroid(FreeDroidv2）
 
 ![KeepDroid logo](docs/keepdroid-logo.png)
 
@@ -35,8 +35,6 @@ The debug APK is generated at `app/build/outputs/apk/debug/app-debug.apk`.
 
 Current application metadata:
 
-- Application ID: `com.g00gle.andr0id.verifier`
-- Designed as a drop-in replacement for the verification namespace.0→o
 - Version code: `2`
 - Version name: `September302026notcoming`
 - Minimum SDK: `28`
