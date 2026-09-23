@@ -1,3 +1,5 @@
+Move to
+- https://codeberg.org/KeepDroid/KeepDroid-FOSS/src/branch/main
 # If you encounter any problems with this application, please feel free to contact us via a pull request or issues before proceeding with any further steps. I will delete This repo and app.
 
 This app supports the open-source community, encourages student programmers, and supports individual app developers. I receive no revenue from it, and there are no ads. It does not contain any proprietary data or copyrighted libraries. It does not require root access or anything like that. Administrator privileges are only for uninstallation protection.If you encounter any problems with this application, please feel free to contact us via a pull request before proceeding with any further steps. I will delete it.
